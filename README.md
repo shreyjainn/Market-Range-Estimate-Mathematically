@@ -20,8 +20,8 @@ This project involves developing a quantitative model to estimate the market ran
   - Yahoo Finance: Collection of historical market data.
 
 ## Deliverables
-1. ** Quantitative Model**: Built to estimate market range probabilities.
-2. ** Core Predictions**:
+1. **Quantitative Model**: Built to estimate market range probabilities.
+2. **Core Predictions**:
    - Historical trends of the NSE Nifty 50 index.
    - Probability-based range predictions based on historical data.
 
