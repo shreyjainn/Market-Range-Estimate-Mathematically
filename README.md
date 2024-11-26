@@ -34,6 +34,6 @@ This project equips traders, investors, and analysts with:
 
 Explore the repository to dive deeper into the quantitative modeling process and gain a better understanding of how historical data shapes market predictions.
 
-Generated PDF File: https://github.com/user-attachments/files/16918637/MarketRange.Estimate.Mathematically.pdf
+Here is the generated PDF File: [Market Range Estimate](https://github.com/user-attachments/files/16918637/MarketRange.Estimate.Mathematically.pdf)
 
 
